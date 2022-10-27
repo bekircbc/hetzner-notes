@@ -166,6 +166,26 @@ Finished ..
 
 ---
 
+# Domain
+
+- domainssaubiliig.de
+
+- create ein account
+
+- search for the domain name
+
+- choose a domain name from list.. .de, .eu, .com,...
+
+- pay with debitcard oder Paypal. If you pay with Paypal, take 20€ from your account for sciherhet. you can use this money to pay..
+
+- click bearbeiten --> DNS-Eintrage --> give your hetzner server IP and speichern
+
+- Click "Add New Subdomain" and write new subdomain name..
+
+- if you add subdomain, click again to bearbeiten and give IP..
+
+- You can also buy domain name from Hetzner.. You must pay 12€ pro year.. for domainssaubillig --> 4,5€ pro year..
+
 ### zoom settings for ubuntu.22
 
       sudo apt install ./zoom_amd64.deb
